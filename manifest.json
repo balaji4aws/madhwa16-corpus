@@ -1,0 +1,17 @@
+{
+  "corpus": "madhwa16-corpus",
+  "description": "Transcribed Madhwa (Dvaita Vedanta) pravachanas for grounded, reference-cited RAG.",
+  "updated": "2026-10-27",
+  "talk_count": 1,
+  "talks": [
+    {
+      "slug": "radha-madhvacharya-bannanje",
+      "title": "#Radha as per madhvacharya by shri #bannanjegovindacharya | english subtitles |",
+      "source_url": "https://youtu.be/HIqCD0IbkMQ",
+      "language": "kn",
+      "status": "machine-draft",
+      "transcript": "transcripts/radha-madhvacharya-bannanje.md",
+      "metadata": "talks/radha-madhvacharya-bannanje.json"
+    }
+  ]
+}
